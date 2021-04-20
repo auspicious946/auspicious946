@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Surya
+- 👀 I’m interested in playing games 🙂
+- 🌱 I’m currently studying in class X.
+- 📫 How to reach me coding.
+- 🖥️ I'm interested in learning Java, C++ and C#.
